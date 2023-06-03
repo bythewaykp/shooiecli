@@ -1,0 +1,5 @@
+/.wwebjs_cache
+/node_modules
+/Session/*
+.env
+/src/Components/Templates/creds.json
